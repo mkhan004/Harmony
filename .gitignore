@@ -4,3 +4,6 @@
 
 target/
 /doc
+Results/
+test-output/
+
