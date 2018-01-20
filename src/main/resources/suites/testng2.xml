@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Harmony Test" verbose="2">
+
+
+	<test name="Regression Test">
+
+		<!-- <packages>
+
+			<package name="tests"></package>
+
+		</packages> -->
+		
+		<classes>
+			<class name="tests.TestRegisterFeature"></class>
+		</classes>
+
+	</test>
+
+</suite>
